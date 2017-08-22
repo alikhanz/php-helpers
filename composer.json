@@ -1,6 +1,7 @@
 {
     "name": "alikhanz/php-helpers",
     "description": "Useful helpers for any project. Includes laravel helpers.",
+    "license": "MIT",
     "authors": [
         {
             "name": "DamneD",
