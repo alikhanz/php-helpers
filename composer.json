@@ -1,0 +1,16 @@
+{
+    "name": "alikhanz/php-helpers",
+    "description": "Useful helpers for any project. Includes laravel helpers.",
+    "authors": [
+        {
+            "name": "DamneD",
+            "email": "alihan93.93@gmail.com"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "src/helpers.php"
+        ]
+    },
+    "require": {}
+}
